@@ -76,7 +76,7 @@ for xd in range(10000):
 	uakua=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
 	ugen.append(uakua)
 os.system('xdg-open https://github.com/weirdnehal')
-logo =       """ 
+logo =                                           """ 
 
 \033[1;37m╔═════════════════════════════════════════════╗
 \033[1;37m║      \033[1;36m╔╗╔╔═╗╦ ╦╔═╗╦    ╔═╗╦ ╦╔╦╗╔═╗╔╦╗       \033[1;37m║
@@ -91,7 +91,6 @@ logo =       """
 
 
 """ 
-
 
 class Main:
     def __init__(self):
