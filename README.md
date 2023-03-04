@@ -27,7 +27,7 @@
 
 • pip install rich
 
-• rm -rf NEHAL 
+• rm -rf NEHAL-BD 
 
 • git clone https://github.com/weirdnehal/NEHAL-BD.git
 
